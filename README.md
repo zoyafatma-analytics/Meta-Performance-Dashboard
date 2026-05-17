@@ -127,4 +127,4 @@ The dashboard helps generate actionable insights such as:
 -------
 # Screenshot 
 Instagram Filter (https://github.com/zoyafatma-analytics/Meta-Performance-Dashboard/blob/main/Instagram_Filter.png)
-Facebook Filter (
+Facebook Filter (https://github.com/zoyafatma-analytics/Meta-Performance-Dashboard/blob/main/Facebook_Filter.png)
