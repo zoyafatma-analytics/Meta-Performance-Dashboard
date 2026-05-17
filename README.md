@@ -111,7 +111,7 @@ Relationships were created to enable:
 - Dynamic analysis
 - Efficient KPI calculations
 
------
+---
 
 # 📊 Business Insights Generated
 
@@ -124,7 +124,23 @@ The dashboard helps generate actionable insights such as:
 - Platform comparison (Facebook vs Instagram)
 - Peak activity time analysis
 - Budget optimization opportunities
--------
-# Screenshot 
-Instagram Filter (https://github.com/zoyafatma-analytics/Meta-Performance-Dashboard/blob/main/Instagram_Filter.png)
-Facebook Filter (https://github.com/zoyafatma-analytics/Meta-Performance-Dashboard/blob/main/Facebook_Filter.png)
+
+---
+
+# 📸 Dashboard Screenshots
+
+## Instagram Filter Dashboard
+
+![Instagram Filter Dashboard](https://github.com/zoyafatma-analytics/Meta-Performance-Dashboard/blob/main/Instagram_Filter.png)
+
+---
+
+## Facebook Filter Dashboard
+
+![Facebook Filter Dashboard](https://github.com/zoyafatma-analytics/Meta-Performance-Dashboard/blob/main/Facebook_Filter.png)
+
+---
+
+# 📄 License
+
+This project is intended for educational and portfolio purposes.
