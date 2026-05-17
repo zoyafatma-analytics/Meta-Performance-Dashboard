@@ -126,4 +126,5 @@ The dashboard helps generate actionable insights such as:
 - Budget optimization opportunities
 -------
 # Screenshot 
-Instagram Filter (
+Instagram Filter (https://github.com/zoyafatma-analytics/Meta-Performance-Dashboard/blob/main/Instagram_Filter.png)
+Facebook Filter (
